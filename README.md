@@ -1,6 +1,6 @@
 # Curated list of deep learning compiler resources
 
-| make nn go brr
+> make nn go brr
 
 ---
 
